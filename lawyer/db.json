@@ -1,0 +1,22 @@
+{
+ "divorced":[
+   {
+    "name":"Abhishek",
+    "charge":600,
+    "slot":[]
+
+   },
+   {
+    "name":"Prateek",
+    "charge":600,
+    "slot":[]
+
+   },
+   {
+    "name":"Aman",
+    "charge":600,
+    "slot":[]
+
+   }
+ ]
+}
